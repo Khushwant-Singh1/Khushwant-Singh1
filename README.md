@@ -1,40 +1,55 @@
-# 👋 Hi, I'm Khushwant Singh  
+# 👋 Hello, World! I'm Khushwant Singh 🌟  
 
-### About Me  
-- 🎓 **B.Tech 2nd Year Student**  
-- 💻 Passionate about **Machine Learning, Web Development, and Software Engineering**  
-- 🚀 Exploring **AI-enabled water quality forecasting, MERN stack development, and Flask projects**  
+### 🚀 About Me  
+Hey there! I’m a B.Tech 2nd Year Student with a passion for Machine Learning, Web Development, and everything tech!  
+I am currently diving into **AI-powered projects**, creating **cool web apps**, and constantly challenging myself with new technologies.
 
-### 🌟 Highlights  
-- 🏅 **Smart India Hackathon (SIH) 2024 Finalist**  
-- 🥉 **3rd Position** in **CSS Battle**  
-- 🏆 **2nd Place** in **GK Quiz, NCC**  
-- 📜 **Certificates** for participation in **Dexterix** and **Pervasive AI**  
+- 🔍 Exploring **AI-enabled Water Quality Forecasting**  
+- 🌐 Building modern **web apps** using **MERN stack** and **Flask**  
+- 💡 Always seeking **innovative solutions** in software engineering  
 
-### 🛠 Skills  
-- **Languages**: Python, JavaScript, SQL, C++, HTML, CSS  
-- **Frameworks**: Flask, Django  
-- **Tools**: Vite, Maven, Canva, VS Code  
+### 🌟 Achievements & Highlights  
+- 🏅 **Smart India Hackathon 2024 Finalist** – Real-time water quality forecasting project  
+- 🥉 **3rd in CSS Battle** – Styling my way to victory!  
+- 🏆 **2nd in GK Quiz, NCC** – Who says techies can't be quiz masters?  
+- 📜 **Certificates** for **Dexterix** & **Pervasive AI** participation – Always learning!  
 
-### 🔭 Projects  
-- 📊 **Ganga Water Quality Forecasting**: AI-enabled decision support system  
-- 🏠 **Real Estate Listing**: Django and MySQL project  
-- 🔐 **Switch Configuration Panel**: Flask-based software with data encryption  
+### 🛠 Tech Stack & Skills  
+I love building with a wide variety of tools. Here’s what I’m working with:
 
-### 📈 Achievements  
-- 🥉 **HackStreet Hackathon** finalist  
-- 🤝 Member of **NCC**, **IEEE**, and **Technojam**  
+**Languages**:  
+- 🐍 Python  
+- 💻 JavaScript  
+- 💾 SQL  
+- 🚀 C++  
+- 🌍 HTML & CSS
 
-### 🌱 Currently Learning  
-- Advanced **Machine Learning with Hardware** integration  
-- Enhanced **Database Management Systems**  
+**Frameworks & Tools**:  
+- 🖥 Flask, Django  
+- 🔧 Vite, Maven  
+- 🎨 Canva  
+- 🧑‍💻 VS Code  
 
-### 📫 How to Reach Me  
+### 🔭 Current Projects  
+I'm currently building some exciting projects:
+
+- 🌊 **Ganga Water Quality Forecasting** – AI-based system for forecasting river water quality using **IoT** and **satellite data**  
+- 🏠 **Real Estate Listing App** – A simple **Django** & **MySQL** application for real estate management  
+- 🔐 **Switch Configuration Panel** – A secure Flask-based app with **data encryption** and **decryption**  
+
+### 🚀 Achievements in Hackathons & Competitions  
+- 🎯 **HackStreet Hackathon Finalist** – Bringing my **coding** skills to the competitive arena  
+- 🤝 Proud member of **NCC**, **IEEE**, and **Technojam**  
+
+### 🌱 What Am I Learning?  
+- 📡 Integrating **Machine Learning** with **Hardware**  
+- 🏗 Building **efficient database systems**  
+
+### 📫 Let's Connect!  
 - 🌍 **Twitter**: [@Khushwant_248](https://twitter.com/Khushwant_248)  
 - 💼 **LinkedIn**: [Khushwant Singh](https://www.linkedin.com/in/khushwant-singh-68249a335/)  
 - ✉️ **Email**: [khushzx8630@gmail.com](mailto:khushzx8630@gmail.com)  
 
 ---
 
-⭐️ _"Code, Create, Contribute."_  
-Feel free to explore my repositories and connect!
+⭐️ _"Code, Create, Contribute."_ Let’s make something amazing together! 🚀
