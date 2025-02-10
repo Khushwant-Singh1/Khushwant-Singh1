@@ -1,55 +1,18 @@
-# 👋 Hello, World! I'm Khushwant Singh 🌟  
+# 💫 About Me:
+Hey there! I’m a B.Tech 2nd Year Student with a passion for Machine Learning, Web Development, and everything tech!<br>I am currently diving into AI-powered projects, creating cool web apps, and constantly challenging myself with new technologies.<br><br>🔍 Exploring AI-enabled Water Quality Forecasting<br>🌐 Building modern web apps using MERN stack and Flask<br>💡 Always seeking innovative solutions in software engineering<br>🌟 Achievements & Highlights<br>🏅 Smart India Hackathon 2024 Finalist – Real-time water quality forecasting project<br>🥉 3rd in CSS Battle – Styling my way to victory!<br>🏆 2nd in GK Quiz, NCC – Who says techies can't be quiz masters?<br>📜 Certificates for Dexterix & Pervasive AI participation – Always learning!<br>🛠 Tech Stack & Skills<br>I love building with a wide variety of tools. Here’s what I’m working with:<br><br>Languages:<br><br>🐍 Python<br>💻 JavaScript<br>💾 SQL<br>🚀 C++<br>🌍 HTML & CSS<br>Frameworks & Tools:<br><br>🖥 Flask, Django<br>🔧 Vite, Maven<br>🎨 Canva<br>🧑‍💻 VS Code<br>🔭 Current Projects<br>I'm currently building some exciting projects:<br><br>🌊 Ganga Water Quality Forecasting – AI-based system for forecasting river water quality using IoT and satellite data<br>🏠 Real Estate Listing App – A simple Django & MySQL application for real estate management<br>🔐 Switch Configuration Panel – A secure Flask-based app with data encryption and decryption<br>🚀 Achievements in Hackathons & Competitions<br>🎯 HackStreet Hackathon Finalist – Bringing my coding skills to the competitive arena<br>🤝 Proud member of NCC, IEEE, and Technojam<br>🌱 What Am I Learning?<br>📡 Integrating Machine Learning with Hardware<br>🏗 Building efficient database systems<br>📫 Let's Connect!<br>🌍 Twitter: @Khushwant_248<br>💼 LinkedIn: Khushwant Singh<br>✉️ Email: khushzx8630@gmail.com<br>
 
-### 🚀 About Me  
-Hey there! I’m a B.Tech 2nd Year Student with a passion for Machine Learning, Web Development, and everything tech!  
-I am currently diving into **AI-powered projects**, creating **cool web apps**, and constantly challenging myself with new technologies.
 
-- 🔍 Exploring **AI-enabled Water Quality Forecasting**  
-- 🌐 Building modern **web apps** using **MERN stack** and **Flask**  
-- 💡 Always seeking **innovative solutions** in software engineering  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/khushwant-singh-68249a335/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khushwantzx@gmail.com) 
 
-### 🌟 Achievements & Highlights  
-- 🏅 **Smart India Hackathon 2024 Finalist** – Real-time water quality forecasting project  
-- 🥉 **3rd in CSS Battle** – Styling my way to victory!  
-- 🏆 **2nd in GK Quiz, NCC** – Who says techies can't be quiz masters?  
-- 📜 **Certificates** for **Dexterix** & **Pervasive AI** participation – Always learning!  
-
-### 🛠 Tech Stack & Skills  
-I love building with a wide variety of tools. Here’s what I’m working with:
-
-**Languages**:  
-- 🐍 Python  
-- 💻 JavaScript  
-- 💾 SQL  
-- 🚀 C++  
-- 🌍 HTML & CSS
-
-**Frameworks & Tools**:  
-- 🖥 Flask, Django  
-- 🔧 Vite, Maven  
-- 🎨 Canva  
-- 🧑‍💻 VS Code  
-
-### 🔭 Current Projects  
-I'm currently building some exciting projects:
-
-- 🌊 **Ganga Water Quality Forecasting** – AI-based system for forecasting river water quality using **IoT** and **satellite data**  
-- 🏠 **Real Estate Listing App** – A simple **Django** & **MySQL** application for real estate management  
-- 🔐 **Switch Configuration Panel** – A secure Flask-based app with **data encryption** and **decryption**  
-
-### 🚀 Achievements in Hackathons & Competitions  
-- 🎯 **HackStreet Hackathon Finalist** – Bringing my **coding** skills to the competitive arena  
-- 🤝 Proud member of **NCC**, **IEEE**, and **Technojam**  
-
-### 🌱 What Am I Learning?  
-- 📡 Integrating **Machine Learning** with **Hardware**  
-- 🏗 Building **efficient database systems**  
-
-### 📫 Let's Connect!  
-- 🌍 **Twitter**: [@Khushwant_248](https://twitter.com/Khushwant_248)  
-- 💼 **LinkedIn**: [Khushwant Singh](https://www.linkedin.com/in/khushwant-singh-68249a335/)  
-- ✉️ **Email**: [khushzx8630@gmail.com](mailto:khushzx8630@gmail.com)  
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Khushwant-Singh1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Khushwant-Singh1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Khushwant-Singh1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Khushwant-Singh1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-⭐️ _"Code, Create, Contribute."_ Let’s make something amazing together! 🚀
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
