@@ -107,7 +107,7 @@ LangChain-powered document processor with sub-second latency
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushwant-singh-68249a335/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/Khushwant_248)
-[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:khushzx8630@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:khushwantzx@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Khushwant-Singh1)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Khushwant-Singh1&color=blueviolet&style=flat)
